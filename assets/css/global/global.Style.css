@@ -136,7 +136,7 @@ table {
 }
 
 body {
-  background: url(/assets/img/images/background.png);
+  background-image: url(assets/img/images/background.png);
   font-family: "Poppins", sans-serif;
   color: #fff;
 }
@@ -299,7 +299,7 @@ body {
       flex-wrap: wrap;
 }
 .header_index {
-  background: url(/assets/img/images/background-header.png);
+  background-image: url(assets/img/images/background-header.png);
   background-size: cover;
   background-repeat: no-repeat;
   height: 1000px;
@@ -321,7 +321,7 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: url(/assets/img/images/background-sec.png);
+  background-image: url(assets/img/images/background-sec.png);
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -470,7 +470,7 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: url(/assets/img/images/bgcbottom.png);
+  background: url(assets/img/images/bgcbottom.png);
   background-repeat: no-repeat;
   background-position: top right;
   min-height: 10vh;
