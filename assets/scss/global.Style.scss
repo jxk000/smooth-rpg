@@ -2,7 +2,7 @@
 @import 'global.Config';
 
 body {
-	background: url(/assets/img/images/background.png);
+	background: url(assets/img/images/background.png);
 	font-family: 'Poppins', sans-serif;
 	color: $text-color-title;
 }
@@ -129,7 +129,7 @@ body {
 	padding: 64px 20px 0 20px;
 	flex-wrap: wrap;
 	&_index {
-		background: url(/assets/img/images/background-header.png);
+		background: url(assets/img/images/background-header.png);
 		background-size: cover;
 		background-repeat: no-repeat;
 		height: 1000px;
@@ -141,7 +141,7 @@ body {
 		padding: 256px 0 32px;
 		flex-direction: column;
 		align-items: center;
-		background: url(/assets/img/images/background-sec.png);
+		background: url(assets/img/images/background-sec.png);
 		background-repeat: no-repeat;
 		background-size: 100%;
 		&__title {
@@ -244,7 +244,7 @@ body {
 .change {
 	padding: 10vh 20px;
 	justify-content: center;
-	background: url(/assets/img/images/bgcbottom.png);
+	background: url(assets/img/images/bgcbottom.png);
 	background-repeat: no-repeat;
 	background-position: top right;
 	min-height: 10vh;
